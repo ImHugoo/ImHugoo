@@ -7,7 +7,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ImHugoo&bg_color=f0e68c&color=000000&line=000000&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-##
+
 
 ## main skills:
 <div style="display: inline_block"><br>
