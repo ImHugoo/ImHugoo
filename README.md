@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Gothic+Coding&pause=1000&color=F0E68C&size=35&center=true&vCenter=true&width=1000&lines=Hi!+I'm+Hugo+Henrique!+;I'm+19+years+old!;I'm+from+S%C3%A3o+Paulo%2C+Brazil.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Gothic+Coding&pause=1000&color=F0E68C&size=35&center=true&vCenter=true&width=1000&lines=Hi!+I'm+Hugo+Henrique!+;I'm+20+years+old!;I'm+from+S%C3%A3o+Paulo%2C+Brazil.)](https://git.io/typing-svg)
 
 ##
 
